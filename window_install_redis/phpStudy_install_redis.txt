@@ -1,0 +1,15 @@
+
+参考：https://blog.csdn.net/qq_23989101/article/details/79628784
+参考网址：https://jingyan.baidu.com/article/1709ad8046daa34634c4f004.html
+
+
+
+下载redis扩展, 地址：http://pecl.php.net/package/redis
+
+
+
+php5.6请下载：redis  2.2.7  对应的ddl文件 
+
+
+
+
